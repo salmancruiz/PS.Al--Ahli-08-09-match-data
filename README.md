@@ -11,7 +11,7 @@
 
 
 **👉 Heatmap Visualization:**
-https://salmancruiz.github.io/PS.AI--Ahli-08-09-match-data/heatmap.html
+https://salmancruiz.github.io/PS.Al--Ahli-08-09-match-data/heatmap.html
 
 ---
 

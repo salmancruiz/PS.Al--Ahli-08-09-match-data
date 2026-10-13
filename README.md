@@ -7,9 +7,7 @@
 
 ### 🔥 LIVE DEMO
 
-**👉 Main Dashboard:** 
-https://salmancruiz.github.io/PS.AI--Ahli-08-09-match-data/
-
+**👉 Main Dashboard:** https://salmancruiz.github.io/PS.Al--Ahli-08-09-match-data/
 **👉 Heatmap Visualization:**
 https://salmancruiz.github.io/PS.AI--Ahli-08-09-match-data/heatmap.html
 
